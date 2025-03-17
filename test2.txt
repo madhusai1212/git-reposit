@@ -1,1 +1,1 @@
-git and github are not same
+git can be used with any other collobration 
